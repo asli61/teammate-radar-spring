@@ -58,18 +58,6 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
-			<plugin>
-				<groupId>org.flywaydb</groupId>
-				<artifactId>flyway-maven-plugin</artifactId>
-				<version>9.21.0</version>
-				<configuration>
-					<user>root</user>
-					<password>databaseRootPass1</password>
-					<schemas>
-						<schema>teammate_radar_database</schema>
-					</schemas>
-				</configuration>
-			</plugin>
 		</plugins>
 	</build>
 
