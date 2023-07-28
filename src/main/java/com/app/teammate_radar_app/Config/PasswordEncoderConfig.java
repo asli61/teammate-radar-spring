@@ -1,4 +1,4 @@
-package com.app.teammate_radar_app;
+package com.app.teammate_radar_app.Config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

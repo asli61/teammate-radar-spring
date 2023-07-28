@@ -1,4 +1,4 @@
-package com.app.teammate_radar_app;
+package com.app.teammate_radar_app.Endpoints;
 
 import com.app.teammate_radar_app.Database.Entities.User;
 import com.app.teammate_radar_app.Database.Repos.UserRepository;
