@@ -1,8 +1,8 @@
 package com.app.teammate_radar_app;
 
+import com.app.teammate_radar_app.Database.Entities.User;
+import com.app.teammate_radar_app.Database.Repos.UserRepository;
 import com.app.teammate_radar_app.Exceptions.ResponseError;
-import com.app.teammate_radar_app.Repos.User;
-import com.app.teammate_radar_app.Repos.UserRepository;
 import com.app.teammate_radar_app.Validation.PasswordConstraintValidator;
 import jakarta.validation.Valid;
 import jakarta.validation.constraints.Email;

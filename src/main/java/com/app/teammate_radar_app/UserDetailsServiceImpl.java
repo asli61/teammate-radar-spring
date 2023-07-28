@@ -1,7 +1,7 @@
 package com.app.teammate_radar_app;
 
-import com.app.teammate_radar_app.Repos.User;
-import com.app.teammate_radar_app.Repos.UserRepository;
+import com.app.teammate_radar_app.Database.Entities.User;
+import com.app.teammate_radar_app.Database.Repos.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

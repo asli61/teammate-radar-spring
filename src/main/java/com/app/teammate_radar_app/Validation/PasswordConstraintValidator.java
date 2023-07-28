@@ -5,7 +5,6 @@ package com.app.teammate_radar_app.Validation;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.app.teammate_radar_app.Repos.User;
 import org.passay.CharacterRule;
 import org.passay.EnglishCharacterData;
 import org.passay.LengthRule;

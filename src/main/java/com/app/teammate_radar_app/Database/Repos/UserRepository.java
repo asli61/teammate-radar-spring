@@ -1,5 +1,6 @@
-package com.app.teammate_radar_app.Repos;
+package com.app.teammate_radar_app.Database.Repos;
 
+import com.app.teammate_radar_app.Database.Entities.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
