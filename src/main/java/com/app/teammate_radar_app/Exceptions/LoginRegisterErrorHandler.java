@@ -1,4 +1,4 @@
-package com.app.teammate_radar_app.exceptions;
+package com.app.teammate_radar_app.Exceptions;
 
 import java.time.LocalDateTime;
 import com.fasterxml.jackson.annotation.JsonFormat;

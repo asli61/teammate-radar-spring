@@ -1,4 +1,4 @@
-package com.app.teammate_radar_app.exceptions;
+package com.app.teammate_radar_app.Exceptions;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
